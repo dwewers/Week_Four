@@ -147,7 +147,7 @@ switch (foo) {
   default:
     console.log("I don't like this number.");
 }
-*/
+
 
 const foo = 1;
 let output = '';
@@ -171,4 +171,18 @@ switch (foo) {
     break;
   default:
     console.log('Please pick a number from 0 to 5!');
+}*/
+
+var age = 19;
+const year = 2000
+let output ='';
+
+switch(year){
+  case(year):
+  output += age;
+  console.log(output);
+
 }
+
+
+
